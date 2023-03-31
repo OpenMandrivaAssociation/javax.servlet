@@ -2,7 +2,7 @@
 
 Name:           javax.servlet
 Version:        4.0.1
-Release:        1
+Release:        2
 Summary:        Java Servlet API
 Group:		Development/Java
 License:        ASL 2.0
